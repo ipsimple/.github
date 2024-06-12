@@ -21,8 +21,8 @@ We welcome contributions from the community! Check out our [contributing guideli
 
 ## Contact
 
-For any inquiries, please reach out to us at [support@ipsimple.org](mailto:support@ipsimple.org).
+For any inquiries, please reach out to us at our [discussion area](https://github.com/orgs/ipsimple/discussions).
 
 ---
 
-Visit our website at [ipsimple.org](https://ipsimple.org) to learn more about our services.
+Visit our website at [ipsimple.org](https://ipsimple.org) to learn more.
